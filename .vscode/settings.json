@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/845b8e6c-5500-43e4-b182-121ebf786ca9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/FeedMeEasy-RestAPI-SI",
+    "appService.deploySubpath": "."
+}
